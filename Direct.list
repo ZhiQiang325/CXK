@@ -183,7 +183,6 @@ DOMAIN-SUFFIX,360buy.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,jcloudcs.com
 DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,jd.hk
 DOMAIN-SUFFIX,jdcloud.com
 DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,paipai.com
@@ -269,13 +268,6 @@ DOMAIN-SUFFIX,sohuno.com
 DOMAIN-SUFFIX,sohurdc.com
 DOMAIN-SUFFIX,v-56.com
 
-# Sony
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,gtimg.com
@@ -309,17 +301,6 @@ DOMAIN-SUFFIX,vipstatic.com
 # Ximalaya 喜马拉雅
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
-
-# Xunlei 迅雷
-DOMAIN-SUFFIX,00cdn.com
-DOMAIN-SUFFIX,88cdn.com
-DOMAIN-SUFFIX,kanimg.com
-DOMAIN-SUFFIX,kankan.com
-DOMAIN-SUFFIX,p2cdn.com
-DOMAIN-SUFFIX,sandai.net
-DOMAIN-SUFFIX,thundercdn.com
-DOMAIN-SUFFIX,xunlei.com
-
 
 # Public Direct CDN 公共直连
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
